@@ -12,6 +12,7 @@ jobs:
       - name: Commit Changes
         run: |
           curl https://iptv-org.github.io/iptv/countries/ma.m3u	 > list.m3u
+          curl https://raw.githubusercontent.com/charcbysr/m3u/master/ussmall.m3u	 > list.m3u
           curl https://iptv-org.github.io/iptv/countries/be.m3u | grep -iv -E 'www.ast.tv|adultiptv|redtraffic|jasminchannel|porn|gay|group-title="XXX"' >> list.m3u
           
           git config user.name github-actions
