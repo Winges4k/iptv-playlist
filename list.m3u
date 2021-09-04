@@ -189,6 +189,62 @@ http://cms-winges4k.com:25461/415820959997/415820959997/61101
 http://cms-winges4k.com:25461/415820959997/415820959997/61105
 #EXTINF:-1 tvg-id="mbc1.ae" tvg-name="AR | MBC 1 FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc1.png" group-title="MBC GROUPE",AR | MBC 1 FHD
 http://cms-winges4k.com:25461/415820959997/415820959997/61097
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Al Jazeera FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeera.png" group-title="NEWS TV",AR | Al Jazeera FHD
+http://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Al Jazeera Mubasher  FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeera.png" group-title="NEWS TV",AR | Al Jazeera Mubasher  FHD
+http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+#EXTINF:-1 tvg-id="Alarabiya HD" tvg-name="AR | Al Arabiya FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Alarabiya.png" group-title="NEWS TV",AR | Al Arabiya FHD
+http://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Al Arabiya Al Hadath FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/ae-al-arabiya-al-hada.png" group-title="NEWS TV",AR | Al Arabiya Al Hadath FHD
+http://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Alhurra Tv Iraq HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/NEWS/alhurairaq.png" group-title="NEWS TV",AR | Alhurra Tv Iraq HD
+https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8
+#EXTINF:-1 tvg-id="almanar" tvg-name="AR | Al Manar HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/New_Al-Manar_logo.PNG" group-title="NEWS TV",AR | Al Manar HD
+http://manar.live/iptv/chunklist_w807886194_b500000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Al Hurra HD" tvg-logo="https://www.alhurra.com/themes/custom/voa/images/sites_logos/logo_Al_Hurra.png" group-title="NEWS TV",AR | Al Hurra HD
+http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR | Rt France News HD" tvg-logo="https://static.epg.best/fr/RTFrance.fr.png" group-title="NEWS TV",FR | Rt France News HD
+http://cms-winges4k.com:25461/415820959997/415820959997/1154
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | BBC Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/NEWS/BBCARABIC.png" group-title="NEWS TV",AR | BBC Arabic
+http://85.24.140.135:8001/1:0:1:332e:1388:13e:820000:0:0:0:
+#EXTINF:-1 tvg-id="France 24 Arabic ARB" tvg-name="AR | France 24 Arabic HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/NEWS/FRANCE24ARABIC.png" group-title="NEWS TV",AR | France 24 Arabic HD
+http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/01.m3u8
+#EXTINF:-1 tvg-id="Sky News Arabia HD" tvg-name="AR | S-news Arabia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/8/84/20190523201953%21Sky_News_Arabia_logo.png" group-title="NEWS TV",AR | S-news Arabia HD
+http://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Cgtn News Arabia" tvg-logo="https://uiar.cgtn.com/w/images/icon/logo@3x.png" group-title="NEWS TV",AR | Cgtn News Arabia
+http://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Al Araby FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Alaraby_TV_Logo.png" group-title="NEWS TV",AR | Al Araby FHD
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Al Hiwar FHD" tvg-logo="https://www.alhiwar.tv/all/images/logo.png" group-title="NEWS TV",AR | Al Hiwar FHD
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b3296000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | DW ARABIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="NEWS TV",AR | DW ARABIA HD
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | CNBC ARABIA HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/cnbc-ar.png" group-title="NEWS TV",AR | CNBC ARABIA HD
+https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch95.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | TRT ARABIC NEWS FHD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/11/TRT-Arabi.png" group-title="NEWS TV",AR | TRT ARABIC NEWS FHD
+http://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | RUSSIYA ALYAWM NEWS HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/RTArabic.png" group-title="NEWS TV",AR | RUSSIYA ALYAWM NEWS HD
+https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch92.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR |  AL AAN TV HD" tvg-logo="http://content.osn.com/logo/channel/cropped/AAN.png" group-title="NEWS TV",AR |  AL AAN TV HD
+http://cms-winges4k.com:25461/415820959997/415820959997/33740
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | EXTRA NEWS HD" tvg-logo="https://extranews.tv/assets/images/Extranews_logo_R.png" group-title="NEWS TV",AR | EXTRA NEWS HD
+https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch93.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | ALYAWM NEWS HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/NEWS/alyaumtv.png" group-title="NEWS TV",AR | ALYAWM NEWS HD
+http://ikomg1.s.llnwi.net/alyaumtv/3-01.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | MEKAMELEEN NEWS HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/Mekamleen200.png" group-title="NEWS TV",AR | MEKAMELEEN NEWS HD
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | AL MAYADEEN" tvg-logo="https://cdn.almayadeen.tv/images/logo/new-logo-small.png" group-title="NEWS TV",AR | AL MAYADEEN
+https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch94.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN | AL JAZEERA ENGLISH FHD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/AlJazeeraEng.png" group-title="NEWS TV",EN | AL JAZEERA ENGLISH FHD
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="zeealwan.ae" tvg-name="AR | ASHARQ NEWS FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/NEWS/asharqtv.png" group-title="NEWS TV",AR | ASHARQ NEWS FHD
+http://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index_1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | ALARABIYA HADATH FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/ae-al-arabiya-al-hada.png" group-title="NEWS TV",AR | ALARABIYA HADATH FHD
+http://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | AL MUSTAKILLAH TV" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/NEWS/almustakillaho.png" group-title="NEWS TV",AR | AL MUSTAKILLAH TV
+http://cms-winges4k.com:25461/xxxx/xxx/71754
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Misk Live" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tr-misk-tv-1250.jpg" group-title="NEWS TV",AR | Misk Live
+https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch45.m3u8
 <!DOCTYPE html>
 <html>
   <head>
