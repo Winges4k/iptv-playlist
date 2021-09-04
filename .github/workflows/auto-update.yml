@@ -11,8 +11,8 @@ jobs:
         uses: actions/checkout@v2
       - name: Commit Changes
         run: |
-          curl https://raw.githubusercontent.com/Winges4k/livestreams/main/MarocTV-Extra.m3u	 > list.m3u
-          curl https://raw.githubusercontent.com/Winges4k/livestreams/main/MarocTV-Extra.m3u	 > list.m3u
+          curl https://raw.githubusercontent.com/Winges4k/livestreams/main/EMARATTV-EXTRA.m3u	 > list.m3u
+          curl https://raw.githubusercontent.com/Winges4k/livestreams/main/QATARTV-EXTRA.m3u	 > list.m3u
           curl https://iptv-org.github.io/iptv/countries/be.m3u | grep -iv -E 'www.ast.tv|adultiptv|redtraffic|jasminchannel|porn|gay|group-title="XXX"' >> list.m3u
           
           git config user.name github-actions
