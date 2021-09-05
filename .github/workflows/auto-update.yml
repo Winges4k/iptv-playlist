@@ -13,7 +13,7 @@ jobs:
         run: |
           curl https://raw.githubusercontent.com/Winges4k/YTFREELIVE-m3u/main/playlist.m3u	 > list.m3u
           curl http://m3u4u.com/m3u/m/7w51g8x2447awkn8xknr	 > list.m3u
-          curl https://raw.githubusercontent.com/Winges4k/dailymotion_to_m3u/main/dailymotion-EU.m3u | grep -iv -E 'www.ast.tv|adultiptv|redtraffic|jasminchannel|group-title="XXX"' >> list.m3u
+          curl https://raw.githubusercontent.com/thecomputerhealer/dailymotion_to_m3u/main/dailymotion-US.m3u | grep -iv -E 'www.ast.tv|adultiptv|redtraffic|jasminchannel|group-title="XXX"' >> list.m3u
           
           git config user.name github-actions
           git config user.email github-actions@github.com
