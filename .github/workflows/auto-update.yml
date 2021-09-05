@@ -12,7 +12,7 @@ jobs:
       - name: Commit Changes
         run: |
           curl https://raw.githubusercontent.com/Winges4k/livestreams/main/EMARATTV-EXTRA.m3ux	 > list.m3u
-          curl http://m3u4u.com/m3u/m/xn2jv89nwqagejp19yz4	 > list.m3u
+          curl http://m3u4u.com/m3u/m/7w51g8x2447awkn8xknr	 > list.m3u
           curl https://iptv-org.github.io/iptv/countries/be.m3ux | grep -iv -E 'www.ast.tv|adultiptv|redtraffic|jasminchannel|group-title="XXX"' >> list.m3u
           
           git config user.name github-actions
