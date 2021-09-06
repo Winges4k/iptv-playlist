@@ -39,10 +39,22 @@ http://cms-winges4k.com:25461/415820959997/415820959997/17747
 http://cms-winges4k.com:25461/415820959997/415820959997/33706
 #EXTINF:-1 tvg-id="B4UPlus.ae" tvg-name="AR | B4U AFLAM SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/B4UAflam.png" group-title="DRAMA TV",AR | B4U AFLAM SD
 http://cms-winges4k.com:25461/415820959997/415820959997/33913
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Booba" tvg-logo="https://www.dafont.com/forum/attach/thumb/9/5/957748.png" group-title="KIDS TV",AR | Booba
+https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch25.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Gulli Arabic FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MAJDTV/GULLIARABIE.png" group-title="KIDS TV",AR | Gulli Arabic FHD
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index_1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Spacetoon" tvg-logo="https://spacetoon.com/assets/imgs/1stoon.png" group-title="KIDS TV",AR | Spacetoon
+http://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Toyor Aljanah" tvg-logo="https://ia601406.us.archive.org/10/items/logoschannels/ARABKIDS/TUYUR-ELJANH.png" group-title="KIDS TV",AR | Toyor Aljanah
+https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch16.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kids | Cartoon Network Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="KIDS TV",Kids | Cartoon Network Arabic
+http://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 3 USA FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc3-logo.png" group-title="KIDS TV",MBC 3 USA FHD
 https://shls-mbc3-usa-prod.shahid.net/out/v1/f7584f50d13c4c01b0fac2be04c61c7e/index.m3u8
 #EXTINF:-1 tvg-id="mbc3.ae" tvg-name="AR | MBC 3 EURO FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc3-logo.png" group-title="KIDS TV",AR | MBC 3 EURO FHD
 http://cms-winges4k.com:25461/415820959997/415820959997/61101
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MO | Mauritanie" tvg-logo="" group-title="General TV",MO | Mauritanie
+https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch41.m3u8
 #EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="MA | Aloula FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MOROCCO/MA1.png" group-title="General TV",MA | Aloula FHD
 http://85.24.140.135:8001/1:0:1:3:2E18:B0:820000:0:0:0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MA | Aloula Alouyon FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MOROCCO/MA1A.png" group-title="General TV",MA | Aloula Alouyon FHD
@@ -215,6 +227,8 @@ https://stream-us-east-1.getpublica.com/cl/1f27407b-bdc0-4190-9a39-0ab72698028c/
 https://moonbug-rokuus.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toon Goggles" tvg-logo="" group-title="KIDS TV",Toon Goggles
 https://stream-us-east-1.getpublica.com/cl/3ef6bc9e-1b9a-4aa5-8f27-413b13dd3578/1280x720_2655671_4_false.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Misk Live" tvg-logo="" group-title="News TV",AR | Misk Live
+https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch45.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL ARABIYA FHD" tvg-logo="" group-title="News TV",AL ARABIYA FHD
 http://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL ARABIYA HD" tvg-logo="" group-title="News TV",AL ARABIYA HD
