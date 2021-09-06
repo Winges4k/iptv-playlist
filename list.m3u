@@ -449,6 +449,206 @@ https://cdnapisec.kaltura.com/p/2082311/sp/208231100/playManifest/protocol/https
 https://cdnapisec.kaltura.com/p/2082311/sp/208231100/playManifest/protocol/https/entryId/1_sfbhs1td/format/applehttp/tags/web_hd/f/a.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tokyo 2020 Olympics Closing Ceremony - See you at the Tokyo 2020 Paralympics" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='3502388'&EntityType='Item'&EntityId='236610'&Width=1920&Height=1080&ImageUrl='3502388.png'&device='web_browser'&subscriptions='Registered'&segmentation" group-title="Tokyo 2020 Olympics Closing Ceremony",Tokyo 2020 Olympics Closing Ceremony - See you at the Tokyo 2020 Paralympics
 https://cdnapisec.kaltura.com/p/2082311/sp/208231100/playManifest/protocol/https/entryId/1_4p912squ/format/applehttp/tags/web_hd/f/a.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Black News Network" tvg-logo="https://i.imgur.com/I7zhVJj.png" group-title="Tubi TV",Black News Network
+https://lnc-black-news.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/3grms3y.png" group-title="Tubi TV",Bloomberg TV
+https://csm-e-cetubiausw2live101-06ebe33587c16b95b.csm.tubi.video/csm/live/240948717.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg Quicktake" tvg-logo="https://i.imgur.com/5Ku7x2V.jpg" group-title="Tubi TV",Bloomberg Quicktake
+https://csm-e-eb.csm.tubi.video/csm/live/283326845.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBC news" tvg-logo="https://i.imgur.com/MAs6Vv9.png" group-title="Tubi TV",CBC news
+https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cheddar News" tvg-logo="https://i.imgur.com/SYUy0Ci.png" group-title="Tubi TV",Cheddar News
+https://csm-e-cetubiausw2live101-08651e4b1e735af14.csm.tubi.video/csm/live/241515520.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Estrella News" tvg-logo="https://i.imgur.com/xGqzO4o.jpg" group-title="Tubi TV",Estrella News
+https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euronews" tvg-logo="https://i.imgur.com/xFzrnRs.jpg" group-title="Tubi TV",Euronews
+https://csm-e-cetubiausw2live101-0ab2d16d68bb18f13.csm.tubi.video/csm/live/248551385.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox News rtmp" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="Tubi TV",Fox News rtmp
+https://lnc-fox-news-now-rtmp.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox News Now" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="Tubi TV",Fox News Now
+https://lnc-fox-news-now.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Soul" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Tubi TV",Fox Soul
+https://lnc-fox-soul-scte.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Soul" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Tubi TV",Fox Soul
+https://csm-e-cetubiausw2live101-0f045a640757c30da.csm.tubi.video/csm/live/249707400.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fubo" tvg-logo="https://i.imgur.com/iVLNJgF.png" group-title="Tubi TV",Fubo
+https://csm-e-cetubiausw2live101-08c231fb1e230ccd2.csm.tubi.video/csm/live/246665421.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KCPQ Fox Q13 Seattle" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="Tubi TV",KCPQ Fox Q13 Seattle
+https://lnc-kcpq-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KDFW Fox 4 Dallas-FT-Worth" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="Tubi TV",KDFW Fox 4 Dallas-FT-Worth
+https://lnc-kdfw-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KMSP Fox 9 Minneapolis ST Paul" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="Tubi TV",KMSP Fox 9 Minneapolis ST Paul
+https://lnc-kmsp-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KRIV Fox 26 Houston" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="Tubi TV",KRIV Fox 26 Houston
+https://lnc-kriv-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KZAS Fox 10 Phoenix" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="Tubi TV",KZAS Fox 10 Phoenix
+https://lnc-ksaz-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ktbc Fox 7 Austin" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="Tubi TV",Ktbc Fox 7 Austin
+https://lnc-ktbc-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTTV Fox 11 Los Angeles" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="Tubi TV",KTTV Fox 11 Los Angeles
+https://lnc-kttv-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTVU Fox 2 San Francisco" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="Tubi TV",KTVU Fox 2 San Francisco
+https://lnc-ktvu-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC News Now" tvg-logo="https://i.imgur.com/DF4Bqg0.jpg" group-title="Tubi TV",NBC News Now
+https://csm-e-cetubiausw2live101-0a3375999d365443a.csm.tubi.video/csm/live/244416207.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 12 New York" tvg-logo="https://i.imgur.com/oCpRBJ8.jpg" group-title="Tubi TV",News 12 New York
+https://lnc-news12.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Newsy" tvg-logo="https://i.imgur.com/rwVZFYM.png" group-title="Tubi TV",Newsy
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Newsy.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pattrn" tvg-logo="https://i.imgur.com/oxtBGOO.png" group-title="Tubi TV",Pattrn
+https://csm-e-cetubiausw2live204-01130c4edc259e208.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Pattrn.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="People TV" tvg-logo="https://i.imgur.com/xlsk3c6.png" group-title="Tubi TV",People TV
+https://lnc-people-tv.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WAGA Fox 5 Atlanta" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="Tubi TV",WAGA Fox 5 Atlanta
+https://lnc-waga-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weather Nation" tvg-logo="https://i.imgur.com/Cs6NS8a.jpg" group-title="Tubi TV",Weather Nation
+https://csm-e-cetubiausw2live101-0a3375999d365443a.csm.tubi.video/csm/live/241500490.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WFLD FOX 32 Chicago" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="Tubi TV",WFLD FOX 32 Chicago
+https://lnc-wfld-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WITI Fox 6 Milwaukee" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="Tubi TV",WITI Fox 6 Milwaukee
+https://lnc-witi-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WJBK Fox 2 Detroit" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="Tubi TV",WJBK Fox 2 Detroit
+https://lnc-wjbk-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WYNY Fox 5 New York" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="Tubi TV",WYNY Fox 5 New York
+https://lnc-wnyw-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WOFL Fox 35 Orlando" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="Tubi TV",WOFL Fox 35 Orlando
+https://lnc-wofl-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WTTG Fox 5 Washington DC" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="Tubi TV",WTTG Fox 5 Washington DC
+https://lnc-wttg-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WTVT Fox 13 Tampa Bay" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="Tubi TV",WTVT Fox 13 Tampa Bay
+https://lnc-wtvt-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WTXF Fox 29 Philadelphia" tvg-logo="https://i.imgur.com/qdYfhpZ.jpg" group-title="Tubi TV",WTXF Fox 29 Philadelphia
+https://lnc-wtxf-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WMUR New Hampshire" tvg-logo="https://i.imgur.com/QbzvoR0.png" group-title="Tubi TV",WMUR New Hampshire
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WXYZ 7 ABC" tvg-logo="https://i.imgur.com/4smiCRl.jpg" group-title="Tubi TV",WXYZ 7 ABC
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WEWS ABC 5" tvg-logo="https://i.imgur.com/zXxGBUF.png" group-title="Tubi TV",WEWS ABC 5
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WEWS.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Pittsburg by WTAE" tvg-logo="https://i.imgur.com/C1gs2NA.jpg" group-title="Tubi TV",Very Pittsburg by WTAE
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Kansas City KMBC" tvg-logo="https://i.imgur.com/wdPdSpw.png" group-title="Tubi TV",Very Kansas City KMBC
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Alabama WVTM" tvg-logo="https://i.imgur.com/MhF5dqU.png" group-title="Tubi TV",Very Alabama WVTM
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WVTM.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Nola by WDSU" tvg-logo="https://i.imgur.com/EhsG6mF.png" group-title="Tubi TV",Very Nola by WDSU
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WDSU.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WHBQ FOX 13 Memphis" tvg-logo="https://i.imgur.com/PrOSEQZ.jpg" group-title="Tubi TV",WHBQ FOX 13 Memphis
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WHBQ.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KOKI FOX 23 Tulsa" tvg-logo="https://i.imgur.com/WWnfFBl.jpg" group-title="Tubi TV",KOKI FOX 23 Tulsa
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KOKI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Omaha by KETV7" tvg-logo="https://i.imgur.com/OI8jL3D.png" group-title="Tubi TV",Very Omaha by KETV7
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KETV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vision TV Channel (VTC)" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/entertainment/thumbs/visiontvuk-entertainment-vtctv-thumb-large.jpg.png" group-title="Entertainement",Vision TV Channel (VTC)
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-vtctv-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SpotLight" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/entertainment/thumbs/visiontvuk-entertainment-spotlighttv-hsslive-25f-thumb-large.jpg.png" group-title="Entertainement",SpotLight
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-spotlighttv-hsslive-25f-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTAI" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/entertainment/thumbs/visiontvuk-entertainment-ntai-hsslive-25f-4x3-thumb-large.jpg.png" group-title="Entertainement",NTAI
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Supreme Master TV" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/entertainment/thumbs/visiontvuk-entertainment-suprememastertv-hsslive-25f-16x9-thumb-large.jpg.png" group-title="Entertainement",Supreme Master TV
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-suprememastertv-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YANGA!" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/entertainment/thumbs/visiontvuk-entertainment-yanga-hsslive-25f-thumb-large.jpg.png" group-title="Entertainement",YANGA!
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-yanga-hsslive-25f-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Propeller TV" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/entertainment/thumbs/visiontvuk-entertainment-propellertv-hsslive-25f-16x9-thumb-large.jpg.jpg" group-title="Entertainement",Propeller TV
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-propellertv-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Edgy TV" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/entertainment/thumbs/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-thumb-large.jpg.png" group-title="Entertainement",Edgy TV
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Live 360" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/entertainment/thumbs/visiontvuk-entertainment-live360-hsslive-25f-thumb-large.jpg" group-title="Entertainement",Live 360
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-live360-hsslive-25f-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 7" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/entertainment/thumbs/visiontvuk-entertainment-gntv-hsslive-25f-16x9-thumb-large.jpg.png" group-title="Entertainement",Channel 7
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-gntv-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Newsmax TV" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/news/thumbs/visiontvuk-news-newsmaxtv-thumb-large.jpg.png" group-title="News",Newsmax TV
+https://api.visionip.tv/live/ASHTTP/visiontvuk-news-newsmaxtv-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arise News" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/news/thumbs/visiontvuk-news-arise-tv-hsslive-25f-16x9-thumb-large.jpg.png" group-title="News",Arise News
+https://api.visionip.tv/live/ASHTTP/visiontvuk-news-arise-tv-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alaraby" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/news/thumbs/visiontvuk-news-alaraby-hsslive-25f-thumb-large.jpg.png" group-title="News",Alaraby
+https://api.visionip.tv/live/ASHTTP/visiontvuk-news-alaraby-hsslive-25f-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Syria TV" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/news/thumbs/visiontvuk-news-syriatv-hsslive-25f-thumb-large.jpg.png" group-title="News",Syria TV
+https://api.visionip.tv/live/ASHTTP/visiontvuk-news-syriatv-hsslive-25f-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK44" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/news/thumbs/visiontvuk-news-uk44-freeview-hsslive-25f-16x9-thumb-large.jpg.png" group-title="News",UK44
+https://news.sechls01.visionip.tv/live/visiontvuk-news-uk44-freeview-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deutsche Welle" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/news/thumbs/visiontvuk-news-deutsche-welle-hsslive-25f-16x9-thumb-large.jpg" group-title="News",Deutsche Welle
+https://news.sechls01.visionip.tv/live/visiontvuk-news-deutsche-welle-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="France24" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/news/thumbs/visiontvuk-news-france24-hsslive-25f-4x3-thumb-large.jpg.jpg" group-title="News",France24
+https://api.visionip.tv/live/ASHTTP/visiontvuk-news-france24-hsslive-25f-4x3-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TIMES NOW" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/news/thumbs/visiontvuk-news-times-now2-hsslive-25f-4x3-thumb-large.jpg.png" group-title="News",TIMES NOW
+https://news.sechls01.visionip.tv/live/visiontvuk-news-times-now2-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sporty Stuff TV" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/sports/thumbs/visiontvuk-sports-sportystufftv-thumb-large.jpg.png" group-title="Sport",Sporty Stuff TV
+https://api.visionip.tv/live/ASHTTP/visiontvuk-sports-sportystufftv-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sports Tonight" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/sports/thumbs/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-thumb-large.jpg" group-title="Sport",Sports Tonight
+https://api.visionip.tv/live/ASHTTP/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Esports24.tv" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/sports/thumbs/visiontvuk-sports-eSports24tv-thumb-large.jpg" group-title="Sport",Esports24.tv
+https://api.visionip.tv/live/ASHTTP/visiontvuk-sports-eSports24tv-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JML" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/tvmall/thumbs/visiontvuk-tvmall-jml-hsslive-25f-16x9-thumb-large.jpg.png" group-title="TV Mall",JML
+https://tvmall.sechls01.visionip.tv/live/visiontvuk-tvmall-jml-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Jewellery Channel (TJC)" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/tvmall/thumbs/visiontvuk-tvmall-jewellery-channel-hsslive-25f-4x3-thumb-large.jpg" group-title="TV Mall",The Jewellery Channel (TJC)
+https://tvmall.sechls01.visionip.tv/live/visiontvuk-tvmall-jewellery-channel-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Best Direct" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/tvmall/thumbs/visiontvuk-tvmall-bestdirect-freeview-hsslive-25f-4x3-thumb-large.jpg" group-title="TV Mall",Best Direct
+https://tvmall.sechls01.visionip.tv/live/visiontvuk-tvmall-bestdirect-freeview-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="3ABN Praise Him" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/3abn/thumbs/visiontvuk-3abn-praise-him-hsslive-25f-thumb-large.jpg.png" group-title="3ABN",3ABN Praise Him
+https://api.visionip.tv/live/ASHTTP/visiontvuk-3abn-praise-him-hsslive-25f-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="3ABN Dare to Dream TV" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/3abn/thumbs/visiontvuk-3abn-dare-to-dream-hsslive-25f-thumb-large.jpg.png" group-title="3ABN",3ABN Dare to Dream TV
+https://api.visionip.tv/live/ASHTTP/visiontvuk-3abn-dare-to-dream-hsslive-25f-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="3ABN Russia" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/3abn/thumbs/visiontvuk-3abn-3-abn-russia-hsslive-25f-thumb-large.jpg.png" group-title="3ABN",3ABN Russia
+https://api.visionip.tv/live/ASHTTP/visiontvuk-3abn-3-abn-russia-hsslive-25f-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="3ABN Proclaim!" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/3abn/thumbs/visiontvuk-3abn-3-abn-proclaim-hsslive-25f-thumb-large.jpg.png" group-title="3ABN",3ABN Proclaim!
+https://api.visionip.tv/live/ASHTTP/visiontvuk-3abn-3-abn-proclaim-hsslive-25f-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="3ABN Latino" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/3abn/thumbs/visiontvuk-3abn-3-abn-latino-hsslive-25f-thumb-large.jpg.png" group-title="3ABN",3ABN Latino
+https://api.visionip.tv/live/ASHTTP/visiontvuk-3abn-3-abn-latino-hsslive-25f-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="3ABN Kids" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/3abn/thumbs/visiontvuk-3abn-3-abn-kids-hsslive-25f-thumb-large.jpg.png" group-title="3ABN",3ABN Kids
+https://api.visionip.tv/live/ASHTTP/visiontvuk-3abn-3-abn-kids-hsslive-25f-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="3ABN French" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/3abn/thumbs/visiontvuk-3abn-3-abn-french-hsslive-25f-thumb-large.jpg.png" group-title="3ABN",3ABN French
+https://api.visionip.tv/live/ASHTTP/visiontvuk-3abn-3-abn-french-hsslive-25f-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="3ABN" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/3abn/thumbs/visiontvuk-3abn-3-abn-hsslive-25f-thumb-large.jpg.png" group-title="3ABN",3ABN
+https://api.visionip.tv/live/ASHTTP/visiontvuk-3abn-3-abn-hsslive-25f-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Faith World TV" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/christianworld/thumbs/visiontvuk-christian-faithtv-thumb-large.jpg.jpg" group-title="Religion",Faith World TV
+https://api.visionip.tv/live/ASHTTP/visiontvuk-christian-faithtv-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Revelation TV" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/christianworld/thumbs/visiontvuk-christianworld-revelationtv-hsslive-25f-16x9-thumb-large.jpg.png" group-title="Religion",Revelation TV
+https://api.visionip.tv/live/ASHTTP/visiontvuk-christianworld-revelationtv-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Firstlight" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/christianworld/thumbs/visiontvuk-religion-firstlight-thumb-large.jpg.png" group-title="Religion",Firstlight
+https://api.visionip.tv/live/ASHTTP/visiontvuk-religion-firstlight-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GoodNews TV" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/christianworld/thumbs/visiontvuk-religion-goodnewstv-thumb-large.jpg.png" group-title="Religion",GoodNews TV
+https://api.visionip.tv/live/ASHTTP/visiontvuk-religion-goodnewstv-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dunamis TV" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/christianworld/thumbs/visiontvuk-religion-dunamistv-thumb-large.jpg.png" group-title="Religion",Dunamis TV
+https://api.visionip.tv/live/ASHTTP/visiontvuk-religion-dunamistv-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Daystar" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/christianworld/thumbs/visiontvuk-christian-daystartv-hsslive-25f-16x9-thumb-large.jpg.png" group-title="Religion",Daystar
+https://api.visionip.tv/live/ASHTTP/visiontvuk-christian-daystartv-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Iran International" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/international/thumbs/visiontvuk-international-iranintl-thumb-large.jpg" group-title="International",Iran International
+https://api.visionip.tv/live/ASHTTP/visiontvuk-international-iranintl-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sharjah TV" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/international/thumbs/visiontvuk-international-sharjahtv-hsslive-25f-thumb-large.jpg.png" group-title="International",Sharjah TV
+https://api.visionip.tv/live/ASHTTP/visiontvuk-international-sharjahtv-hsslive-25f-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Islam Channel" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/international/thumbs/visiontvuk-international-islamchannel-hsslive-25f-4x3-thumb-large.jpg.png" group-title="International",Islam Channel
+https://api.visionip.tv/live/ASHTTP/visiontvuk-international-islamchannel-hsslive-25f-4x3-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="British Muslim TV" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/international/thumbs/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-thumb-large.jpg.png" group-title="International",British Muslim TV
+https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sikh Channel" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/international/thumbs/visiontvuk-international-sikh-channel-hsslive-25f-16x9-thumb-large.jpg.png" group-title="International",Sikh Channel
+https://api.visionip.tv/live/ASHTTP/visiontvuk-international-sikh-channel-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Brit Asia TV" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/international/thumbs/visiontvuk-international-hsslive-25f-thumb-large.jpg" group-title="International",Brit Asia TV
+https://international.sechls01.visionip.tv/live/visiontvuk-international-brit-asia-hsslive-25f-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV25.1 Buzzr" tvg-logo="https://i.imgur.com/VF1r0Yf.png" group-title="TV25",TV25.1 Buzzr
+https://buzzrota-web.amagi.tv/playlist.m3u8?TV25
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV25.2 NewsNet" tvg-logo="https://i.imgur.com/qHMnuZR.png" group-title="TV25",TV25.2 NewsNet
+https://broadcaster1.prolivestream.net:8083/onair/newsnetweb/playlist.m3u8?TV25
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV25.3 Antenna TV" tvg-logo="https://i.imgur.com/UIBChFQ.png" group-title="TV25",TV25.3 Antenna TV
+https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV25.4 Action" tvg-logo="https://i.imgur.com/ToAJpkl.png" group-title="TV25",TV25.4 Action
+https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV25.5 NewsMax TV" tvg-logo="https://i.imgur.com/WjGRh21.png" group-title="TV25",TV25.5 NewsMax TV
+https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV25.6 WeatherNation" tvg-logo="https://i.imgur.com/llwNzuE.png" group-title="TV25",TV25.6 WeatherNation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV25.7 Rev'n" tvg-logo="https://i.imgur.com/d9bONa8.png" group-title="TV25",TV25.7 Rev'n
+https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV25.8 Untamed Sports TV" tvg-logo="https://i.imgur.com/J3Wh6qf.png" group-title="TV25",TV25.8 Untamed Sports TV
+https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV25.9 Retro TV" tvg-logo="https://i.imgur.com/2drg89O.png" group-title="TV25",TV25.9 Retro TV
+https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV25.10 Shop LC" tvg-logo="https://i.imgur.com/UJXfOZM.png" group-title="TV25",TV25.10 Shop LC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV25.11 This TV" tvg-logo="https://i.imgur.com/diT3Q4q.png" group-title="TV25",TV25.11 This TV
+https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV25.12 Jewelry TV" tvg-logo="https://i.imgur.com/ijCIxFf.png" group-title="TV25",TV25.12 Jewelry TV
+https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
 #EXTM3U
 
 #########################################################################
