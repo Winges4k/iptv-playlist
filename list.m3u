@@ -365,6 +365,8 @@ https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch11.m3u8
 http://85.24.140.135:8001/1:0:1:332e:1388:13e:820000:0:0:0:
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SA | Ekhbariyah" tvg-logo="" group-title="News TV",SA | Ekhbariyah
 https://iptv--iptv.repl.co/Arabic/Ekhbariyah
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="youtu.be" tvg-logo="" group-title="test",youtu.be
+https://youtu.be/f-mBROeqylY-iptv.com/ACTUALIZACION
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | CBC DRAMA" tvg-logo="https://www.cbc-eg.com/assets/images/cbc-drama-logo.png" group-title="Drama TV",AR | CBC DRAMA
 https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch44.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EG | Al Kahera Wal Nas" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/EGYPT/ALKAHERAWALNAS2.png" group-title="General TV",EG | Al Kahera Wal Nas
@@ -470,13 +472,13 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ID | UseeSports2" tvg-logo="https://www.useetv.com/pimages/logogrey/grey_logo_useesports2_small.png" group-title="Indonesia TV",ID | UseeSports2
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ID | Fox Sport 1" tvg-logo="https://www.useetv.com/pimages/logogrey/grey_logo_foxsports1_small.png" group-title="Indonesia TV",ID | Fox Sport 1
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsports1&bandwidth=default&sync=0
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ID | Fox Sport 2" tvg-logo="https://www.useetv.com/pimages/logogrey/grey_logo_foxsports2_small.png" group-title="Indonesia TV",ID | Fox Sport 2
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsports2&bandwidth=default&sync=0
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ID | Fox Sport 3" tvg-logo="https://www.useetv.com/pimages/logogrey/grey_logo_foxsports3_small.png" group-title="Indonesia TV",ID | Fox Sport 3
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsports3&bandwidth=default&sync=0
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ID | Golf" tvg-logo="https://www.useetv.com/pimages/logogrey/grey_logo_golf_small1.png?v=" group-title="Indonesia TV",ID | Golf
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=golf&bandwidth=default&sync=0?v=
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=golfplus&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ID | Nat Geo" tvg-logo="https://www.useetv.com/pimages/logogrey/grey_logo_natgeo_small.png" group-title="Indonesia TV",ID | Nat Geo
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ID | Nat Geo People" tvg-logo="https://www.useetv.com/pimages/logogrey/grey_logo_natgeopeople_small.png" group-title="Indonesia TV",ID | Nat Geo People
@@ -484,11 +486,11 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&syn
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ID | Nat Geo Wild" tvg-logo="https://www.useetv.com/pimages/logogrey/grey_logo_natgeowild_small.png" group-title="Indonesia TV",ID | Nat Geo Wild
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ID | Discovery Channel" tvg-logo="https://www.useetv.com/pimages/logogrey/grey_logo_discovery_small.png" group-title="Indonesia TV",ID | Discovery Channel
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=discovery&bandwidth=default&sync=0
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=disco&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ID | NBA" tvg-logo="https://www.useetv.com/pimages/logogrey/grey_logo_nba_small1.png" group-title="Indonesia TV",ID | NBA
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=nba&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ID | Ruang Trampil" tvg-logo="https://www.useetv.com/pimages/logo_ruangtrampil_small.png" group-title="Indonesia TV",ID | Ruang Trampil
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=ruangtrampil&bandwidth=default&sync=0
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=useeinfo&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ID | Usee Photo" tvg-logo="https://www.useetv.com/pimages/logo_useephoto_small.png" group-title="Indonesia TV",ID | Usee Photo
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useephoto&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ID | UseePrime" tvg-logo="https://www.useetv.com/pimages/logo_useeprime_small1.png" group-title="Indonesia TV",ID | UseePrime
@@ -510,7 +512,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=net&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ID | Rajawali TV" tvg-logo="https://www.useetv.com/pimages/logo_rtv_small1.png" group-title="Indonesia TV",ID | Rajawali TV
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=rtv&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ID | RRI NET" tvg-logo="https://www.useetv.com/pimages/logo_rri_small1.png" group-title="Indonesia TV",ID | RRI NET
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=rri&bandwidth=default&sync=0
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=rrinet&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ID | SCTV" tvg-logo="https://www.useetv.com/pimages/logogrey/grey_logo_sctv_small1.png" group-title="Indonesia TV",ID | SCTV
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=sctv&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ID | Trans7" tvg-logo="https://www.useetv.com/pimages/logo_trans7_small1.png" group-title="Indonesia TV",ID | Trans7
