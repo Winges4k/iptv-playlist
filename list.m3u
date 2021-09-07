@@ -227,8 +227,16 @@ https://stream-us-east-1.getpublica.com/cl/1f27407b-bdc0-4190-9a39-0ab72698028c/
 https://moonbug-rokuus.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toon Goggles" tvg-logo="" group-title="KIDS TV",Toon Goggles
 https://stream-us-east-1.getpublica.com/cl/71ee3319-2b9c-4e0b-90fb-6ccedc631e48/1280x720_2300000_4_false.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bein2" tvg-logo="" group-title="INDONISA TV",bein2
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=bein2&bandwidth=default&sync=0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="foxsport1" tvg-logo="" group-title="INDONISA TV",foxsport1
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="foxsport2" tvg-logo="" group-title="INDONISA TV",foxsport2
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Misk Live" tvg-logo="" group-title="News TV",AR | Misk Live
 https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch45.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR | France Info" tvg-logo="" group-title="News TV",FR | France Info
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x4rdeu6
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL ARABIYA FHD" tvg-logo="" group-title="News TV",AL ARABIYA FHD
 http://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL ARABIYA HD" tvg-logo="" group-title="News TV",AL ARABIYA HD
