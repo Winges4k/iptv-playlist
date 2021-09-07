@@ -306,7 +306,7 @@ https://qatartv.akamaized.net/hls/live/2026574/qtv2/master720p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Al Kass Sports 5" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alkas5.png" group-title="SPORT TV",AR | Al Kass Sports 5
 http://cms-winges4k.com:25461/XXXXXXXX/XXXXXXXX/12654
 #EXTINF:-1 tvg-id="rotanaclassic.eg" tvg-name="AR | Rotana Classic FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ROTANA/classic.png" group-title="DEAMA TV",AR | Rotana Classic FHD
-http://shls-rotanaclassic-prod-http://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_1.m3u8
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
 #EXTINF:-1 tvg-id="Rotana Drama" tvg-name="AR | Rotana Drama FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ROTANA/drama.png" group-title="DEAMA TV",AR | Rotana Drama FHD
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_2.m3u8
 #EXTINF:-1 tvg-id="rotanakhalijiah.eg" tvg-name="AR | Rotana Khalijia  FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ROTANA/khalijiat.png" group-title="DEAMA TV",AR | Rotana Khalijia  FHD
