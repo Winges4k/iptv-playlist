@@ -1,16 +1,18 @@
 #EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="B4UPlus.ae" tvg-name="AR | B4U AFLAM SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/B4UAflam.png" group-title="MoVies TV",AR | B4U AFLAM SD
+http://cms-winges4k.com:25461/415820959997/415820959997/33913
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | MBC 2 FHD" tvg-logo="https://ia601406.us.archive.org/10/items/logoschannels/MBC/mbc-2.png" group-title="MoVies TV",AR | MBC 2 FHD
+http://cms-winges4k.com:25461/415820959997/415820959997/69511
+#EXTINF:-1 tvg-id="mbcaction.sa" tvg-name="AR | MBC Action HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-action.png" group-title="MoVies TV",AR | MBC Action HD
+http://cms-winges4k.com:25461/415820959997/415820959997/65
+#EXTINF:-1 tvg-id="mbcmax.ae" tvg-name="AR | MBC Max FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-max.png" group-title="MoVies TV",AR | MBC Max FHD
+http://cms-winges4k.com:25461/415820959997/415820959997/72
 #EXTINF:-1 tvg-id="mbc1.ae" tvg-name="AR | MBC 1 EUR FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc1.png" group-title="Drama TV",AR | MBC 1 EUR FHD
 http://cms-winges4k.com:25461/415820959997/415820959997/61097
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | MBC 1 USA FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc1.png" group-title="Drama TV",AR | MBC 1 USA FHD
 https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index_3.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | MBC 2 FHD" tvg-logo="https://ia601406.us.archive.org/10/items/logoschannels/MBC/mbc-2.png" group-title="Drama TV",AR | MBC 2 FHD
-http://cms-winges4k.com:25461/415820959997/415820959997/69511
-#EXTINF:-1 tvg-id="mbcmax.ae" tvg-name="AR | MBC Max FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-max.png" group-title="Drama TV",AR | MBC Max FHD
-http://cms-winges4k.com:25461/415820959997/415820959997/72
 #EXTINF:-1 tvg-id="mbc5.ae" tvg-name="AR | MBC 5 FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc5.png" group-title="Drama TV",AR | MBC 5 FHD
 http://cms-winges4k.com:25461/415820959997/415820959997/61105
-#EXTINF:-1 tvg-id="mbcaction.sa" tvg-name="AR | MBC Action HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-action.png" group-title="Drama TV",AR | MBC Action HD
-http://cms-winges4k.com:25461/415820959997/415820959997/65
 #EXTINF:-1 tvg-id="mbcdrama.ae" tvg-name="AR | MBC Drama HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-drama.png" group-title="Drama TV",AR | MBC Drama HD
 http://cms-winges4k.com:25461/415820959997/415820959997/67
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | MBC Drama USA" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-drama.png" group-title="Drama TV",AR | MBC Drama USA
@@ -37,8 +39,6 @@ http://cms-winges4k.com:25461/415820959997/415820959997/80
 http://cms-winges4k.com:25461/415820959997/415820959997/17747
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | ZEE AFLAM HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/ZeeAflam.png" group-title="Drama TV",AR | ZEE AFLAM HD
 http://cms-winges4k.com:25461/415820959997/415820959997/33706
-#EXTINF:-1 tvg-id="B4UPlus.ae" tvg-name="AR | B4U AFLAM SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/B4UAflam.png" group-title="Drama TV",AR | B4U AFLAM SD
-http://cms-winges4k.com:25461/415820959997/415820959997/33913
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Booba" tvg-logo="https://www.dafont.com/forum/attach/thumb/9/5/957748.png" group-title="KIDS TV",AR | Booba
 https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch25.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Gulli Arabic FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MAJDTV/GULLIARABIE.png" group-title="KIDS TV",AR | Gulli Arabic FHD
@@ -99,6 +99,8 @@ http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 http://www.m24tv.ma/live/smil:OutStream1.smil/chunklist_w1296497291_b4500000_sleng.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MA | ARRIADIA SPORT" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MOROCCO/MA3.png" group-title="NEWS TV",MA | ARRIADIA SPORT
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="dubaione.ae" tvg-name="AR | Dubai One HD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5e81e67611.png" group-title="MoVies TV",AR | Dubai One HD
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN | National Geographic HD" tvg-logo="" group-title="DOCUMENTARIES TV",EN | National Geographic HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8?token=
 #EXTINF:-1 tvg-id="nationalgeographicabudhabi.ae" tvg-name="AR | National Geographic HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Natgo.png" group-title="DOCUMENTARIES TV",AR | National Geographic HD
@@ -107,8 +109,6 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8?
 #EXTINF:-1 tvg-id="dubaitvhd.ae" tvg-name="AR | Dubai HD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/dubaialoula-live1.png" group-title="Drama TV",AR | Dubai HD
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="dubaione.ae" tvg-name="AR | Dubai One HD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5e81e67611.png" group-title="Drama TV",AR | Dubai One HD
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="dubaizaman.ae" tvg-name="AR | Dubai Zaman" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5fa3e2e9ac.png" group-title="Drama TV",AR | Dubai Zaman
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Abu Dhabi Elmarat" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e1c74bcd9.png" group-title="Drama TV",AR | Abu Dhabi Elmarat
@@ -301,6 +301,12 @@ https://live-hls-web-ajm.getaj.net/AJM/02.m3u8
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Al Araby HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alaraby.png" group-title="NEWS TV",AR | Al Araby HD
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Bein Sport 1" tvg-logo="" group-title="SPORT TV",AR | Bein Sport 1
+http://11.ardounar.xyz/live/978488877/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN | Bein Exta" tvg-logo="" group-title="SPORT TV",EN | Bein Exta
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN | Premier League" tvg-logo="" group-title="SPORT TV",EN | Premier League
+https://eiei.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Al Kass Sports 1" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/al_kass_sport1.png" group-title="SPORT TV",AR | Al Kass Sports 1
 http://cms-winges4k.com:25461/XXXXXXXX/XXXXXXXX/12650
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Al Kass Sports 2" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/al_kass_sport2.png" group-title="SPORT TV",AR | Al Kass Sports 2
@@ -313,7 +319,11 @@ https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlinei1/AlkassOnline129_
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master720p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Al Kass Sports 5" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alkas5.png" group-title="SPORT TV",AR | Al Kass Sports 5
 http://cms-winges4k.com:25461/XXXXXXXX/XXXXXXXX/12654
-#EXTINF:-1 tvg-id="rotanaclassic.eg" tvg-name="AR | Rotana Classic FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ROTANA/classic.png" group-title="DEAMA TV",AR | Rotana Classic FHD
+#EXTINF:-1 tvg-id="RotanaAflam.eg" tvg-name="AR | ROTANA AFLAM FHD+" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ROTANA/aflam-plus.png" group-title="MoVies",AR | ROTANA AFLAM FHD+
+http://cms-winges4k.com:25461/415820959997/415820959997/33642
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | ROTANA CINEMA" tvg-logo="http://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8" group-title="MoVies",AR | ROTANA CINEMA
+http://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
+#EXTINF:-1 tvg-id="rotanaclassic.eg" tvg-name="AR | Rotana Classic FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ROTANA/classic.png" group-title="MoVies",AR | Rotana Classic FHD
 https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
 #EXTINF:-1 tvg-id="Rotana Drama" tvg-name="AR | Rotana Drama FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ROTANA/drama.png" group-title="DEAMA TV",AR | Rotana Drama FHD
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_2.m3u8
@@ -321,14 +331,10 @@ https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3
 http://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_1.m3u8
 #EXTINF:-1 tvg-id="rotanaaflam.eg" tvg-name="AR | Rotana Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Rotana_Comedy_Logo.png" group-title="DEAMA TV",AR | Rotana Comedy HD
 http://cms-winges4k.com:25461/415820959997/415820959997/11410
-#EXTINF:-1 tvg-id="RotanaAflam.eg" tvg-name="AR | ROTANA AFLAM FHD+" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ROTANA/aflam-plus.png" group-title="DEAMA TV",AR | ROTANA AFLAM FHD+
-http://cms-winges4k.com:25461/415820959997/415820959997/33642
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | ROTANA+ FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ROTANA/hd.png" group-title="DEAMA TV",AR | ROTANA+ FHD
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8
 #EXTINF:-1 tvg-id="rotanacinema.eg" tvg-name="AR | ROTANA CINEMA KSA FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ROTANA/cinema.png" group-title="DEAMA TV",AR | ROTANA CINEMA KSA FHD
 http://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | ROTANA CINEMA" tvg-logo="http://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8" group-title="DEAMA TV",AR | ROTANA CINEMA
-http://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
 #EXTINF:-1 tvg-id="rotanamusic.eg" tvg-name="AR | Rotana Music FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ROTANA/MUSIC.png" group-title="MUSIC TV",AR | Rotana Music FHD
 http://cms-winges4k.com:25461/415820959997/415820959997/10232
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Rotana Clip SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ROTANA/clips.png" group-title="MUSIC TV",AR | Rotana Clip SD
@@ -383,6 +389,8 @@ https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch47.m3u8
 https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SU | SUDAN BOKRA" tvg-logo="" group-title="GENERAL TV",SU | SUDAN BOKRA
 http://live.ditve.tv:1935/sudanbukra/sudanbukra.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Bee Movies" tvg-logo="" group-title="MoVies TV",AR | Bee Movies
+https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch15.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | ABNAE EL BALAD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/LIBYA/ABNAAALBALAD.png" group-title="GENERAL TV",AR | ABNAE EL BALAD
 https://master.starmena-cloud.com/hls/abna.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | LIBYA'S CHANNEL" tvg-logo="https://libyaschannel.com/wp-content/uploads/2016/07/logo.png" group-title="GENERAL TV",AR | LIBYA'S CHANNEL
@@ -402,7 +410,7 @@ https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/chunklist_w1560174696.m3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LB | HALA TV" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/lebanon/halatv.png" group-title="Drama TV",LB | HALA TV
 https://gstream2.panet.co.il/edge_abr/halaTV/edge_abr/halaTV_1080p/chunks.m3u8?nimblesessionid=2993636
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LB | OTV" tvg-logo="https://tv.taghtia.com/assets/channels/otv.png" group-title="Drama TV",LB | OTV
-https://cllive.itworkscdn.net/otvlebanonlive/token=nva=1630978155~dirs=1~hash=05ceaa20cc5851a69c0af/otv.smil/otvlive_source_chunks.m3u8
+https://iptv-all.lanesh4d0w.codes/lebanon/otv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | TV-SEVENTEEN" tvg-logo="https://tv.taghtia.com/assets/channels/seventeen-tv.png" group-title="GENERAL TV",AR | TV-SEVENTEEN
 https://cdn.tvseventeen.com/test_tv_seventeen/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LB | AEESH AL AAN TV" tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="GENERAL TV",LB | AEESH AL AAN TV
