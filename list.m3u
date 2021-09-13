@@ -151,6 +151,8 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b1800000
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | SHARJAH SPORT" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/SharjahSport.png" group-title="SPORT TV",AR | SHARJAH SPORT
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | SALAM TV" tvg-logo="" group-title="ISLAM TV",AR | SALAM TV
+https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch90.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Al Resalah FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ISLAM/RESALATV.png" group-title="ISLAM TV",AR | Al Resalah FHD
 https://5ab29cc78f681.streamlock.net/makkahtv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Iqraa Tv" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ISLAM/IQRAA.png" group-title="ISLAM TV",AR | Iqraa Tv
@@ -215,6 +217,10 @@ https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch29.m3u8
 https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch30.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | ThakafahTV" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/ar/ThakafahTV.png" group-title="ISLAM TV",AR | ThakafahTV
 https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch42.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | KIDO" tvg-logo="" group-title="KIDS TV",AR | KIDO
+https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch25.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Nickelodeon Arabia" tvg-logo="" group-title="KIDS TV",AR | Nickelodeon Arabia
+https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch12.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KIDOODLE TV HD" tvg-logo="https://i.imgur.com/KHkerRD.png" group-title="KIDS TV",KIDOODLE TV HD
 https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/2000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zoomoo" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c5/Zoomookidslogo.png/revision/latest/scale-to-width-down/340?cb=20200402154655" group-title="KIDS TV",Zoomoo
@@ -233,49 +239,53 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=bein2&bandwidth=default&sync=0
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="foxsport2" tvg-logo="" group-title="INDONISA TV",foxsport2
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | EXTRA NEWS HD " tvg-logo="" group-title="NEWS TV",AR | EXTRA NEWS HD 
+https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch93.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Misk Live" tvg-logo="" group-title="NEWS TV",AR | Misk Live
 https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch45.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Rajeen TV" tvg-logo="" group-title="NEWS TV",AR | Rajeen TV
+https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch17.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR | France Info" tvg-logo="" group-title="NEWS TV",FR | France Info
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x4rdeu6
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL ARABIYA FHD" tvg-logo="" group-title="NEWS TV",AL ARABIYA FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | AL ARABIYA FHD" tvg-logo="" group-title="NEWS TV",AR | AL ARABIYA FHD
 http://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL ARABIYA HD" tvg-logo="" group-title="NEWS TV",AL ARABIYA HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | AL ARABIYA HD" tvg-logo="" group-title="NEWS TV",AR | AL ARABIYA HD
 http://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL ARABIYA AL HADATH FHD" tvg-logo="" group-title="NEWS TV",AL ARABIYA AL HADATH FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | AL ARABIYA AL HADATH FHD" tvg-logo="" group-title="NEWS TV",AR | AL ARABIYA AL HADATH FHD
 http://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL ARABIYA AL HADATH HD" tvg-logo="" group-title="NEWS TV",AL ARABIYA AL HADATH HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | AL ARABIYA AL HADATH HD" tvg-logo="" group-title="NEWS TV",AR | AL ARABIYA AL HADATH HD
 http://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="alhurra" tvg-logo="" group-title="NEWS TV",alhurra
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Alhurra" tvg-logo="" group-title="NEWS TV",AR | Alhurra
 http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="alhurra Iraq" tvg-logo="" group-title="NEWS TV",alhurra Iraq
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IQ | alhurra Iraq" tvg-logo="" group-title="NEWS TV",IQ | alhurra Iraq
 http://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL MANAR" tvg-logo="" group-title="NEWS TV",AL MANAR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LB | AL MANAR" tvg-logo="" group-title="NEWS TV",LB | AL MANAR
 http://manar.live/iptv/chunklist_w807886194_b500000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC ARABIC" tvg-logo="" group-title="NEWS TV",CNBC ARABIC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | CNBC ARABIC" tvg-logo="" group-title="NEWS TV",AR | CNBC ARABIC
 http://cnbcarabia.hibridcdn.net/cnbc/cnbc_abr/cnbc/cnbc_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cgtn ARABIC" tvg-logo="" group-title="NEWS TV",cgtn ARABIC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | cgtn ARABIC" tvg-logo="" group-title="NEWS TV",AR | cgtn ARABIC
 http://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="alsharqiya" tvg-logo="" group-title="NEWS TV",alsharqiya
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IQ | Alsharqiya" tvg-logo="" group-title="NEWS TV",IQ | Alsharqiya
 http://5d94523502c2d.streamlock.net/home/mystream/chunklist_w1170635682.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="alsharqiya News" tvg-logo="" group-title="NEWS TV",alsharqiya News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IQ | Alsharqiya News" tvg-logo="" group-title="NEWS TV",IQ | Alsharqiya News
 http://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist_w1550569653.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="alhiwar TV" tvg-logo="" group-title="NEWS TV",alhiwar TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | alhiwar TV" tvg-logo="" group-title="NEWS TV",AR | alhiwar TV
 http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b2796000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW ARABIC" tvg-logo="" group-title="NEWS TV",DW ARABIC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | DW ARABIC" tvg-logo="" group-title="NEWS TV",AR | DW ARABIC
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT ARABIC" tvg-logo="" group-title="NEWS TV",TRT ARABIC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | TRT ARABIC" tvg-logo="" group-title="NEWS TV",AR | TRT ARABIC
 http://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUSIA TODAY" tvg-logo="" group-title="NEWS TV",RUSIA TODAY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | RUSSIA TODAY" tvg-logo="" group-title="NEWS TV",AR | RUSSIA TODAY
 http://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALYAWM NEWS HD" tvg-logo="" group-title="NEWS TV",ALYAWM NEWS HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | ALYAWM NEWS HD" tvg-logo="" group-title="NEWS TV",AR | ALYAWM NEWS HD
 http://ikomg1.s.llnwi.net/alyaumtv/3-01.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL MAYADEEN" tvg-logo="" group-title="NEWS TV",AL MAYADEEN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | AL MAYADEEN" tvg-logo="" group-title="NEWS TV",AR | AL MAYADEEN
 http://lmdstrm.cdn.octivid.com:80/mayadeen-live/smil:mayadeen.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASHARQ NEWS FHD" tvg-logo="" group-title="NEWS TV",ASHARQ NEWS FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | ASHARQ NEWS FHD" tvg-logo="" group-title="NEWS TV",AR | ASHARQ NEWS FHD
 http://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index_1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WATAN TV" tvg-logo="" group-title="NEWS TV",WATAN TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | WATAN TV" tvg-logo="" group-title="NEWS TV",AR | WATAN TV
 http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNEWS" tvg-logo="" group-title="NEWS TV",UNEWS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | UNEWS" tvg-logo="" group-title="NEWS TV",AR | UNEWS
 http://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Al Jazeera Documentary" tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/ajd-sm.png" group-title="DOCUMENTARIES TV",AR | Al Jazeera Documentary
 https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
@@ -319,11 +329,11 @@ https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlinei1/AlkassOnline129_
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master720p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Al Kass Sports 5" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alkas5.png" group-title="SPORT TV",AR | Al Kass Sports 5
 http://cms-winges4k.com:25461/XXXXXXXX/XXXXXXXX/12654
-#EXTINF:-1 tvg-id="RotanaAflam.eg" tvg-name="AR | ROTANA AFLAM FHD+" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ROTANA/aflam-plus.png" group-title="MoVies",AR | ROTANA AFLAM FHD+
+#EXTINF:-1 tvg-id="RotanaAflam.eg" tvg-name="AR | ROTANA AFLAM FHD+" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ROTANA/aflam-plus.png" group-title="MoVies TV",AR | ROTANA AFLAM FHD+
 http://cms-winges4k.com:25461/415820959997/415820959997/33642
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | ROTANA CINEMA" tvg-logo="http://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8" group-title="MoVies",AR | ROTANA CINEMA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | ROTANA CINEMA" tvg-logo="http://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8" group-title="MoVies TV",AR | ROTANA CINEMA
 http://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
-#EXTINF:-1 tvg-id="rotanaclassic.eg" tvg-name="AR | Rotana Classic FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ROTANA/classic.png" group-title="MoVies",AR | Rotana Classic FHD
+#EXTINF:-1 tvg-id="rotanaclassic.eg" tvg-name="AR | Rotana Classic FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ROTANA/classic.png" group-title="MoVies TV",AR | Rotana Classic FHD
 https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
 #EXTINF:-1 tvg-id="Rotana Drama" tvg-name="AR | Rotana Drama FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ROTANA/drama.png" group-title="DEAMA TV",AR | Rotana Drama FHD
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_2.m3u8
@@ -379,6 +389,8 @@ https://iptv--iptv.repl.co/Arabic/Ekhbariyah
 https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SA | KSA Sport 2" tvg-logo="" group-title="SPORT TV",SA | KSA Sport 2
 https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Al Nahar Drama" tvg-logo="" group-title="Drama TV",AR | Al Nahar Drama
+https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch28.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | CBC DRAMA" tvg-logo="https://www.cbc-eg.com/assets/images/cbc-drama-logo.png" group-title="Drama TV",AR | CBC DRAMA
 https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch44.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EG | Al Kahera Wal Nas" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/EGYPT/ALKAHERAWALNAS2.png" group-title="GENERAL TV",EG | Al Kahera Wal Nas
