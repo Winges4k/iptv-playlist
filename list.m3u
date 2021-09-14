@@ -151,6 +151,8 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b1800000
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | SHARJAH SPORT" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/SharjahSport.png" group-title="SPORT TV",AR | SHARJAH SPORT
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL HOKAIR Group TV" tvg-logo="" group-title="ISLAM TV",AL HOKAIR Group TV
+http://82.212.74.3:8000/live/7513.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | SALAM TV" tvg-logo="" group-title="ISLAM TV",AR | SALAM TV
 https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch90.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Huda" tvg-logo="" group-title="ISLAM TV",Huda
@@ -223,6 +225,12 @@ https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch42.m3u8
 https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch25.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Nickelodeon Arabia" tvg-logo="" group-title="KIDS TV",AR | Nickelodeon Arabia
 https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch12.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network Asia" tvg-logo="" group-title="KIDS TV",Cartoon Network Asia
+http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel Asia" tvg-logo="" group-title="KIDS TV",Disney Channel Asia
+http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Junior Asia" tvg-logo="" group-title="KIDS TV",Disney Junior Asia
+http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KIDOODLE TV HD" tvg-logo="https://i.imgur.com/KHkerRD.png" group-title="KIDS TV",KIDOODLE TV HD
 https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/2000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zoomoo" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c5/Zoomookidslogo.png/revision/latest/scale-to-width-down/340?cb=20200402154655" group-title="KIDS TV",Zoomoo
