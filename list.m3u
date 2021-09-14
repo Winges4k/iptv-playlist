@@ -1,12 +1,12 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="B4UPlus.ae" tvg-name="AR | B4U AFLAM SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/B4UAflam.png" group-title="MoVies TV",AR | B4U AFLAM SD
-http://cms-winges4k.com:25461/415820959997/415820959997/33913
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | MBC 2 FHD" tvg-logo="https://ia601406.us.archive.org/10/items/logoschannels/MBC/mbc-2.png" group-title="MoVies TV",AR | MBC 2 FHD
 http://cms-winges4k.com:25461/415820959997/415820959997/69511
+#EXTINF:-1 tvg-id="mbcmax.ae" tvg-name="AR | MBC Max FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-max.png" group-title="MoVies TV",AR | MBC Max FHD
+http://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
 #EXTINF:-1 tvg-id="mbcaction.sa" tvg-name="AR | MBC Action HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-action.png" group-title="MoVies TV",AR | MBC Action HD
 http://cms-winges4k.com:25461/415820959997/415820959997/65
-#EXTINF:-1 tvg-id="mbcmax.ae" tvg-name="AR | MBC Max FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-max.png" group-title="MoVies TV",AR | MBC Max FHD
-http://cms-winges4k.com:25461/415820959997/415820959997/72
+#EXTINF:-1 tvg-id="B4UPlus.ae" tvg-name="AR | B4U AFLAM SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/B4UAflam.png" group-title="MoVies TV",AR | B4U AFLAM SD
+http://cms-winges4k.com:25461/415820959997/415820959997/33913
 #EXTINF:-1 tvg-id="mbc1.ae" tvg-name="AR | MBC 1 EUR FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc1.png" group-title="Drama TV",AR | MBC 1 EUR FHD
 http://cms-winges4k.com:25461/415820959997/415820959997/61097
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | MBC 1 USA FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc1.png" group-title="Drama TV",AR | MBC 1 USA FHD
