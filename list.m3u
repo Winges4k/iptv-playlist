@@ -153,6 +153,8 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | SALAM TV" tvg-logo="" group-title="ISLAM TV",AR | SALAM TV
 https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Huda" tvg-logo="" group-title="ISLAM TV",Huda
+https://cdn.videoevent.live:19360/elfaro2/elfaro2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Al Resalah FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ISLAM/RESALATV.png" group-title="ISLAM TV",AR | Al Resalah FHD
 https://5ab29cc78f681.streamlock.net/makkahtv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Iqraa Tv" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ISLAM/IQRAA.png" group-title="ISLAM TV",AR | Iqraa Tv
@@ -345,6 +347,8 @@ http://cms-winges4k.com:25461/415820959997/415820959997/11410
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8
 #EXTINF:-1 tvg-id="rotanacinema.eg" tvg-name="AR | ROTANA CINEMA KSA FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ROTANA/cinema.png" group-title="DEAMA TV",AR | ROTANA CINEMA KSA FHD
 http://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Nogoum FM TV" tvg-logo="" group-title="MUSIC TV",AR | Nogoum FM TV
+https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8
 #EXTINF:-1 tvg-id="rotanamusic.eg" tvg-name="AR | Rotana Music FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ROTANA/MUSIC.png" group-title="MUSIC TV",AR | Rotana Music FHD
 http://cms-winges4k.com:25461/415820959997/415820959997/10232
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Rotana Clip SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ROTANA/clips.png" group-title="MUSIC TV",AR | Rotana Clip SD
@@ -379,6 +383,8 @@ https://iptv--iptv.repl.co/Arabic/Quran_TV/
 http://m.live.net.sa:1935/live/sunnah/chunklist_w1523478481.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SA | ZAD" tvg-logo="https://www.zad.tv/wp-content/uploads/2016/04/logo-footer_new.png" group-title="ISLAM TV",SA | ZAD
 https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch11.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Africa TV" tvg-logo="" group-title="ISLAM TV",AR | Africa TV
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | bbc Arabic" tvg-logo="" group-title="NEWS TV",AR | bbc Arabic
 http://85.24.140.135:8001/1:0:1:332e:1388:13e:820000:0:0:0:
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Sky News Arabic" tvg-logo="" group-title="NEWS TV",AR | Sky News Arabic
@@ -391,18 +397,44 @@ https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport1
 https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport2
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Al Nahar Drama" tvg-logo="" group-title="Drama TV",AR | Al Nahar Drama
 https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch28.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Al Qamar" tvg-logo="" group-title="Drama TV",AR | Al Qamar
+https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | CBC DRAMA" tvg-logo="https://www.cbc-eg.com/assets/images/cbc-drama-logo.png" group-title="Drama TV",AR | CBC DRAMA
 https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch44.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nile TV Culture" tvg-logo="" group-title="Education TV",Nile TV Culture
+http://livestreaming5.onlinehorizons.net/hls-live/NTNNileCulture/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nile TV Learning" tvg-logo="" group-title="Education TV",Nile TV Learning
+http://livestreaming5.onlinehorizons.net/hls-live/Learning1/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Sada Elbalad" tvg-logo="" group-title="GENERAL TV",AR | Sada Elbalad
+https://iptv--iptv.repl.co/streamlink?url=https://www.twitch.tv/elbaladtv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EG | Al Kahera Wal Nas" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/EGYPT/ALKAHERAWALNAS2.png" group-title="GENERAL TV",EG | Al Kahera Wal Nas
 https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch18.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EG | CBC SOFRA" tvg-logo="" group-title="GENERAL TV",EG | CBC SOFRA
 https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch47.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EG | Hawas Tv" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/EGYPT/HAWASTV.png" group-title="GENERAL TV",EG | Hawas Tv
 https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nile TV Comedy" tvg-logo="" group-title="GENERAL TV",Nile TV Comedy
+http://livestreaming5.onlinehorizons.net/hls-live/NTNNileComedy/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nile TV Family" tvg-logo="" group-title="GENERAL TV",Nile TV Family
+http://livestreaming5.onlinehorizons.net/hls-live/NTNNileFamily/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nile TV Life" tvg-logo="" group-title="GENERAL TV",Nile TV Life
+http://livestreaming5.onlinehorizons.net/hls-live/NTNNileLife/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SU | SUDAN BOKRA" tvg-logo="" group-title="GENERAL TV",SU | SUDAN BOKRA
 http://live.ditve.tv:1935/sudanbukra/sudanbukra.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SU | Sudan TV" tvg-logo="" group-title="GENERAL TV",SU | Sudan TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv-avc1_600000=4-mp4a_97200=2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten TV" tvg-logo="" group-title="GENERAL TV",Ten TV
+https://weyyak-live.akamaized.net/weyyak_ten_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Bee Movies" tvg-logo="" group-title="MoVies TV",AR | Bee Movies
 https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch15.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nile TV Cinema" tvg-logo="" group-title="MoVies TV",Nile TV Cinema
+http://livestreaming5.onlinehorizons.net/hls-live/NTNNileCinema/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Omg Channel TV" tvg-logo="" group-title="MoVies TV",Omg Channel TV
+http://media6.smc-host.com:1935/omgchannel.net/omgtv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Mekameleen TV" tvg-logo="" group-title="NEWS TV",AR | Mekameleen TV
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nile TV Sport" tvg-logo="" group-title="SPORT TV",Nile TV Sport
+http://livestreaming5.onlinehorizons.net/hls-live/NTNNileSport/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | ABNAE EL BALAD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/LIBYA/ABNAAALBALAD.png" group-title="GENERAL TV",AR | ABNAE EL BALAD
 https://master.starmena-cloud.com/hls/abna.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | LIBYA'S CHANNEL" tvg-logo="https://libyaschannel.com/wp-content/uploads/2016/07/logo.png" group-title="GENERAL TV",AR | LIBYA'S CHANNEL
