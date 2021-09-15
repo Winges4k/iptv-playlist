@@ -153,10 +153,10 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL HOKAIR Group TV" tvg-logo="https://www.alhokair.com/Content/entertainment/img/logo2.png" group-title="ISLAM TV",AL HOKAIR Group TV
 http://82.212.74.3:8000/live/7513.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Huda" tvg-logo="https://huda.tv/wp-content/uploads/2021/01/cropped-logo_200-150x150.png" group-title="ISLAM TV",AR | Huda
+https://cdn.videoevent.live:19360/elfaro2/elfaro2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | SALAM TV" tvg-logo="https://pbs.twimg.com/profile_images/1293848409342976001/09irdYVf_400x400.png" group-title="ISLAM TV",AR | SALAM TV
 https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch90.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Huda" tvg-logo="https://huda.tv/wp-content/uploads/2021/01/cropped-logo_200-150x150.png" group-title="ISLAM TV",Huda
-https://cdn.videoevent.live:19360/elfaro2/elfaro2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Al Resalah FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ISLAM/RESALATV.png" group-title="ISLAM TV",AR | Al Resalah FHD
 https://5ab29cc78f681.streamlock.net/makkahtv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Iqraa Tv" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/ISLAM/IQRAA.png" group-title="ISLAM TV",AR | Iqraa Tv
@@ -413,8 +413,6 @@ https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport1
 https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport2
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Al Nahar Drama" tvg-logo="" group-title="Drama TV",AR | Al Nahar Drama
 https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch28.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Al Qamar" tvg-logo="" group-title="Drama TV",AR | Al Qamar
-https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | CBC DRAMA" tvg-logo="https://www.cbc-eg.com/assets/images/cbc-drama-logo.png" group-title="Drama TV",AR | CBC DRAMA
 https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch44.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nile TV Culture" tvg-logo="" group-title="Education TV",Nile TV Culture
@@ -489,10 +487,6 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t
 http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AlMaaliTV.kw" tvg-name="Al Maali TV (360p)" tvg-logo="https://i.imgur.com/l7zer94.png" group-title="ISLAM TV",Al Maali TV (360p)
 https://video1.getstreamhosting.com:1936/8484_1/8484_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Ch4Teen.kw" tvg-name="Ch4Teen (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/JeG9K1y.png" group-title="ISLAM TV",Ch4Teen (480p) [Not 24/7]
-https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/index_150_av-p.m3u8
-#EXTINF:-1 tvg-id="Ch4Teen.kw" tvg-name="Ch4Teen (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/JeG9K1y.png" group-title="ISLAM TV",Ch4Teen (480p) [Not 24/7]
-https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8
 #EXTINF:-1 tvg-id="ALRAI.kw" tvg-name="Al Rai [Offline]" tvg-logo="" group-title="GENERAL TV",Al Rai [Offline]
 https://stream02.fasttelco.net/live/alrai.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlBawadi.kw" tvg-name="Al-Bawadi (360p)" tvg-logo="https://ewsat.com/img/AL_BAWADI.png" group-title="GENERAL TV",Al-Bawadi (360p)
@@ -527,8 +521,6 @@ https://media.streambrothers.com:1936/8724/8724/playlist.m3u8
 https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="KTVSport.kw" tvg-name="KTV Sport (1080p) [Not 24/7]" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" group-title="Sports",KTV Sport (1080p) [Not 24/7]
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
-#EXTINF:-1 tvg-id="AlMaarefTV.bh" tvg-name="Al Maaref TV SD" tvg-logo="http://live.almaaref.tv/wp-content/uploads/2018/11/almaaref-Dark-Logo-175x100-1.jpg" group-title="ISLAM TV",Al Maaref TV SD
-http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BahrainQuran.bh" tvg-name="Bahrain Quran HD [Offline]" tvg-logo="https://i.imgur.com/EiiO5nm.png" group-title="ISLAM TV",Bahrain Quran HD [Offline]
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+Quran_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BahrainInternational.bh" tvg-name="Bahrain International HD [Offline]" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" group-title="GENERAL TV",Bahrain International HD [Offline]
