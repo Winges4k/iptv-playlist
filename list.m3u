@@ -709,8 +709,6 @@ https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
 http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="TunisnaTV.tn" tvg-name="Tunisna TV [Offline]" tvg-logo="https://tunisie360.net/img/tv/min/tunisna-tv.png" group-title="GENERAL TV",Tunisna TV [Offline]
 http://streaming.tunisna.tv:1935/live/tunisna/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="====== Malaysia ======" tvg-logo="" group-title="Malaysia TV",====== Malaysia ======
-http://0/0.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690621284_114.png" group-title="Malaysia TV",TV1
 http://gohhh40.xp3.biz/php/streams.php?ch=TV1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV2" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690628754_865.png" group-title="Malaysia TV",TV2
