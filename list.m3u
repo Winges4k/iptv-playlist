@@ -511,7 +511,7 @@ https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvkids.m3u8
 #EXTINF:-1 tvg-id="KTVSportPlus.kw" tvg-name="KTV Sport Plus (1080p) [Not 24/7]" tvg-logo="http://www.1arablive.com/livetv/assets/images/1536610958.png" group-title="GENERAL TV",KTV Sport Plus (1080p) [Not 24/7]
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
-#EXTINF:-1 tvg-id="MarinaTV.kw" tvg-name="Marina TV (720p)" tvg-logo="" group-title="GENERAL TV",Marina TV (720p)
+#EXTINF:-1 tvg-id="MarinaTV.kw" tvg-name="Marina TV (720p) [Not 24/7]" tvg-logo="" group-title="GENERAL TV",Marina TV (720p) [Not 24/7]
 https://gulfsat.cdn.easybroadcast.fr/abr_live/MarinaTv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSabah.kw" tvg-name="Al Sabah (360p)" tvg-logo="https://i.imgur.com/kKPppEz.png" group-title="NEWS TV",Al Sabah (360p)
 https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/playlist.m3u8
