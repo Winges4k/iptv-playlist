@@ -323,6 +323,20 @@ http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b25000
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Bein Sport 1" tvg-logo="" group-title="SPORT TV",AR | Bein Sport 1
 http://11.ardounar.xyz/live/978488877/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Bein Sport 1" tvg-logo="" group-title="SPORT TV",AR | Bein Sport 1
+https://raw.githubusercontent.com/MgZiNMiNLwiN/720p/main/Bein1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Bein Sport 2" tvg-logo="" group-title="SPORT TV",AR | Bein Sport 2
+https://raw.githubusercontent.com/MgZiNMiNLwiN/720p/main/Bein2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Bein Sport 3" tvg-logo="" group-title="SPORT TV",AR | Bein Sport 3
+https://raw.githubusercontent.com/MgZiNMiNLwiN/720p/main/Bein3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Bein Sport 4" tvg-logo="" group-title="SPORT TV",AR | Bein Sport 4
+https://raw.githubusercontent.com/MgZiNMiNLwiN/720p/main/Bein4.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Bein Sport 5" tvg-logo="" group-title="SPORT TV",AR | Bein Sport 5
+https://raw.githubusercontent.com/MgZiNMiNLwiN/720p/main/Bein5.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Bein Sport 6" tvg-logo="" group-title="SPORT TV",AR | Bein Sport 6
+https://raw.githubusercontent.com/MgZiNMiNLwiN/720p/main/Bein6.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Bein Sport 7" tvg-logo="" group-title="SPORT TV",AR | Bein Sport 7
+https://raw.githubusercontent.com/MgZiNMiNLwiN/720p/main/Bein7.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN | Bein Exta" tvg-logo="" group-title="SPORT TV",EN | Bein Exta
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN | Premier League" tvg-logo="" group-title="SPORT TV",EN | Premier League
