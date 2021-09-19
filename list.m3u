@@ -151,8 +151,6 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b1800000
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | SHARJAH SPORT" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/SharjahSport.png" group-title="SPORT TV",AR | SHARJAH SPORT
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL HOKAIR Group TV" tvg-logo="https://www.alhokair.com/Content/entertainment/img/logo2.png" group-title="ISLAM TV",AL HOKAIR Group TV
-http://82.212.74.3:8000/live/7513.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Huda" tvg-logo="https://huda.tv/wp-content/uploads/2021/01/cropped-logo_200-150x150.png" group-title="ISLAM TV",AR | Huda
 https://cdn.videoevent.live:19360/elfaro2/elfaro2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | SALAM TV" tvg-logo="https://pbs.twimg.com/profile_images/1293848409342976001/09irdYVf_400x400.png" group-title="ISLAM TV",AR | SALAM TV
@@ -299,6 +297,18 @@ http://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/i
 http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | UNEWS" tvg-logo="" group-title="NEWS TV",AR | UNEWS
 http://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Discovery HD World" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="DOCUMENTARIES TV",AR | Discovery HD World
+http://89.187.182.181:9090/SM_FHD-HINDI-DISCOVERY/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Discovery Science" tvg-logo="https://i.ibb.co/G71vtRQ/disscience.png" group-title="DOCUMENTARIES TV",AR | Discovery Science
+https://itvoign.multitvsolution.com/idvo/discoverscienceeng.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bbc Erthe" tvg-logo="" group-title="DOCUMENTARIES TV",bbc Erthe
+https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovry HD" tvg-logo="" group-title="DOCUMENTARIES TV",Discovry HD
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab15/index.m3u8?md5=3JMqSO-g51A9uFwoqY3nUg&expires=2556118740
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN | History TV " tvg-logo="" group-title="DOCUMENTARIES TV",EN | History TV 
+https://feed.play.mv/live/10005200/isb9Qf3P5M/1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History 2" tvg-logo="" group-title="DOCUMENTARIES TV",History 2
+https://feed.play.mv/live/10005200/uzBWuYCU0z/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Al Jazeera Documentary" tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/ajd-sm.png" group-title="DOCUMENTARIES TV",AR | Al Jazeera Documentary
 https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Rayan 1 HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/akrayyan1.png" group-title="GENERAL TV",AR | Rayan 1 HD
@@ -479,7 +489,7 @@ http://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
 http://stream.218tv.net/libya218news/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | LIBYA AL HADATH" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/LIBYA/ALHADATH.png" group-title="NEWS TV",AR | LIBYA AL HADATH
 https://master.starmena-cloud.com/hls/hd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LB | Alwasat" tvg-logo="" group-title="NEWS TV",LB | Alwasat
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LY | Alwasat" tvg-logo="http://alwasat.ly/themes/default/assets/images/logo.png" group-title="NEWS TV",LY | Alwasat
 https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LB | ALANN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Al_Aan_TV_Logo.png" group-title="Drama TV",LB | ALANN
 https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/chunklist_w1560174696.m3u8
