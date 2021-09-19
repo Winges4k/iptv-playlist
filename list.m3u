@@ -549,7 +549,7 @@ https://media.streambrothers.com:1936/8724/8724/playlist.m3u8
 https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="KTVSport.kw" tvg-name="KTV Sport (1080p) [Not 24/7]" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" group-title="Sports TV",KTV Sport (1080p) [Not 24/7]
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
-#EXTINF:-1 tvg-id="7alaTV.ps" tvg-name="7ala TV [Geo-Blocked]" tvg-logo="" group-title="Drama TV",7ala TV [Geo-Blocked]
+#EXTINF:-1 tvg-id="7alaTV.ps" tvg-name="7ala TV [Offline]" tvg-logo="" group-title="Drama TV",7ala TV [Offline]
 http://vstream3.hadara.ps:8081/7alafm2020/7alafm2020/playlist.m3u8
 #EXTINF:-1 tvg-id="Audeh.ps" tvg-name="Audeh (480p)" tvg-logo="" group-title="Drama TV",Audeh (480p)
 http://htvpalsat.mada.ps:8888/audeh/index.m3u8
@@ -599,7 +599,7 @@ https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
 http://51.255.84.28:8081/palestiniantv_source/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MarahFM.ps" tvg-name="Marah FM (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/PeIYCXs.jpg" group-title="Music TV",Marah FM (720p) [Not 24/7]
 http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
-#EXTINF:-1 tvg-id="PalestineToday.ps" tvg-name="Palestine Today (480p)" tvg-logo="https://paltoday.tv/style/assets/images/logo.png" group-title="NEWS TV",Palestine Today (480p)
+#EXTINF:-1 tvg-id="PalestineToday.ps" tvg-name="Palestine Today (480p) [Offline]" tvg-logo="https://paltoday.tv/style/assets/images/logo.png" group-title="NEWS TV",Palestine Today (480p) [Offline]
 https://live.paltoday.tv/paltv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="alltv.sy" tvg-name="alltv (400p)" tvg-logo="" group-title="Music",alltv (400p)
 http://185.96.70.242:1935/live/alltv/playlist.m3u8
