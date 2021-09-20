@@ -515,7 +515,7 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t
 http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AlMaaliTV.kw" tvg-name="Al Maali TV (360p)" tvg-logo="https://i.imgur.com/l7zer94.png" group-title="ISLAM TV",Al Maali TV (360p)
 https://video1.getstreamhosting.com:1936/8484_1/8484_1/playlist.m3u8
-#EXTINF:-1 tvg-id="ALRAI.kw" tvg-name="Al Rai [Offline]" tvg-logo="" group-title="GENERAL TV",Al Rai [Offline]
+#EXTINF:-1 tvg-id="ALRAI.kw" tvg-name="Al Rai (1080p) [Not 24/7]" tvg-logo="" group-title="GENERAL TV",Al Rai (1080p) [Not 24/7]
 https://stream02.fasttelco.net/live/alrai.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlBawadi.kw" tvg-name="Al-Bawadi (360p)" tvg-logo="https://ewsat.com/img/AL_BAWADI.png" group-title="GENERAL TV",Al-Bawadi (360p)
 https://gulfsat.cdn.easybroadcast.fr/live/Al-Bawadi_abr/playlist.m3u8
