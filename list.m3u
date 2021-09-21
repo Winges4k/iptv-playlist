@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | MBC 2 FHD" tvg-logo="https://ia601406.us.archive.org/10/items/logoschannels/MBC/mbc-2.png" group-title="MoVies TV",AR | MBC 2 FHD
 http://cms-winges4k.com:25461/415820959997/415820959997/69511
 #EXTINF:-1 tvg-id="mbcmax.ae" tvg-name="AR | MBC Max FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-max.png" group-title="MoVies TV",AR | MBC Max FHD
-http://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
+http://cobraa.in:8000/s11oct11/xFKRFq0buT/4046
 #EXTINF:-1 tvg-id="mbcaction.sa" tvg-name="AR | MBC Action HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-action.png" group-title="MoVies TV",AR | MBC Action HD
 http://cms-winges4k.com:25461/415820959997/415820959997/65
 #EXTINF:-1 tvg-id="B4UPlus.ae" tvg-name="AR | B4U AFLAM SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/B4UAflam.png" group-title="MoVies TV",AR | B4U AFLAM SD
@@ -2013,6 +2013,18 @@ http://satlok.xyz:8000/ylmz3017/elgl30/86766
 http://satlok.xyz:8000/ylmz3017/elgl30/86767
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ART SPORT 3" tvg-logo="" group-title="(no group)",ART SPORT 3
 http://satlok.xyz:8000/ylmz3017/elgl30/86768
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies HD 4K" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="English Movies",Star Movies HD 4K
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-id="0-9-privéhd" tvg-name="And Prive HD" tvg-logo="https://www.exchange4media.com/news-photo/1505284911_sI2Bzt_70469.jpg" group-title="English Movies",And Prive HD
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="And Flix HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" group-title="English Movies",And Flix HD
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-name="Zee Cafe HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title="English Movies",Zee Cafe HD
+https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ts173" tvg-name="Movies Now HD" tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English Movies",Movies Now HD
+http://watchindia.net:8880/live/33253/72963/2102.ts
+#EXTINF:-1 tvg-id="PIXHD" tvg-name="Sony Pix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English Drama",Sony Pix HD
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTM3U
 
 #########################################################################
