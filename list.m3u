@@ -567,7 +567,7 @@ http://htvmada.mada.ps:8888/nabluslive/index.m3u8
 http://palestiniantv.origin.technostreaming.net:8081/palestiniantv_source/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioAlbaladTV.ps" tvg-name="Radio Albalad TV (1080p) [Not 24/7]" tvg-logo="" group-title="Drama TV",Radio Albalad TV (1080p) [Not 24/7]
 http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
-#EXTINF:-1 tvg-id="RajeenTV.ps" tvg-name="Rajeen TV (1080p)" tvg-logo="" group-title="Drama TV",Rajeen TV (1080p)
+#EXTINF:-1 tvg-id="RajeenTV.ps" tvg-name="Rajeen TV (1080p) [Not 24/7]" tvg-logo="" group-title="Drama TV",Rajeen TV (1080p) [Not 24/7]
 https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ShababFM.ps" tvg-name="Shabab FM (720p) [Not 24/7]" tvg-logo="" group-title="Drama TV",Shabab FM (720p) [Not 24/7]
 https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
