@@ -673,8 +673,8 @@ http://51.210.199.41/hls/stream.m3u8
 http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
 #EXTINF:-1 tvg-id="JordanSport.jo" tvg-name="Jordan Sport [Offline]" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/y/B5/2/Poster.png" group-title="Sports TV",Jordan Sport [Offline]
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
-#EXTINF:-1 tvg-id="ToyorAlJannah.jo" tvg-name="Toyor Al-Jannah [Offline]" tvg-logo="" group-title="KIDS TV",Toyor Al-Jannah [Offline]
-https://linkastream.co/headless?url=https://www.youtube.com/user/toyorlive/live
+#EXTINF:-1 tvg-id="ToyorAlJannah.jo" tvg-name="Toyor Al-Jannah (720p)" tvg-logo="https://i.postimg.cc/bNTHzP5g/toyor-al-janah.png" group-title="KIDS TV",Toyor Al-Jannah (720p)
+https://iptv.dc-team.com/query?url=https://www.youtube.com/user/toyorlive/live
 #EXTINF:-1 tvg-id="AdenTV.ye" tvg-name="Aden TV [Offline]" tvg-logo="https://i.imgur.com/KJTEVbf.png" group-title="GENERAL TV",Aden TV [Offline]
 https://master.starmena-cloud.com/hls/aden.m3u8
 #EXTINF:-1 tvg-id="AICTV.ye" tvg-name="AIC TV [Offline]" tvg-logo="" group-title="GENERAL TV",AIC TV [Offline]
