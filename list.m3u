@@ -727,22 +727,30 @@ https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+Sports_all/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+Sports+2_all/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Hiwar El Tounsi" tvg-logo="" group-title="GENERAL TV",El Hiwar El Tounsi
 http://217.182.137.206/elhiwar.m3u8
-#EXTINF:-1 tvg-id="ElHiwarElTounsi.tn" tvg-name="El Hiwar El Tounsi (400p) [Not 24/7]" tvg-logo="" group-title="Drama TV",El Hiwar El Tounsi (400p) [Not 24/7]
+#EXTINF:-1 tvg-id="ElHiwarElTounsi.tn" tvg-name="El Hiwar El Tounsi (1080p)" tvg-logo="https://www.elhiwarettounsi.com/images/news/logo.png" group-title="GENERAL TV",El Hiwar El Tounsi (1080p)
+https://iptv.dc-team.com/query?url=https://www.dailymotion.com/video/k2IuM11CZakq4ZvrUkv
+#EXTINF:-1 tvg-id="ElHiwarElTounsi.tn" tvg-name="El Hiwar El Tounsi (400p) [Not 24/7]" tvg-logo="https://www.elhiwarettounsi.com/images/news/logo.png" group-title="GENERAL TV",El Hiwar El Tounsi (400p) [Not 24/7]
 http://217.182.137.206/elhiwar.m3u8
-#EXTINF:-1 tvg-id="Hannibal.tn" tvg-name="Hannibal (400p) [Offline]" tvg-logo="" group-title="Drama TV",Hannibal (400p) [Offline]
-http://217.182.137.206/hannibal.m3u8
-#EXTINF:-1 tvg-id="Nessma.tn" tvg-name="Nessma (720p) [Offline]" tvg-logo="https://www.nessma.tv/images/logonessmamenu.png" group-title="Drama TV",Nessma (720p) [Offline]
-https://iptv.dc-team.com/query?url=https://www.dailymotion.com/video/x7lmd4f
-#EXTINF:-1 tvg-id="Watania1.tn" tvg-name="Watania 1 (720p)" tvg-logo="Arabic" group-title="Drama TV",Watania 1 (720p)
-https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCdvWVsmQBROkgcGzVep73oA/live
-#EXTINF:-1 tvg-id="Watania2.tn" tvg-name="Watania 2 (400p) [Not 24/7]" tvg-logo="" group-title="Drama TV",Watania 2 (400p) [Not 24/7]
-https://silent-pine-fb33.winges.workers.dev/?url=https://www.youtube.com/channel/UCJW9gatYczI191TunQxMGbA/live
-#EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-name="Mosaïque FM (480p)" tvg-logo="https://www.mosaiquefm.net/images/front2020/logoar.png" group-title="Music TV",Mosaïque FM (480p)
-https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
 #EXTINF:-1 tvg-id="SahelTV.tn" tvg-name="Sahel TV (720p) [Not 24/7]" tvg-logo="https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logox2.png" group-title="GENERAL TV",Sahel TV (720p) [Not 24/7]
 http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="TunisnaTV.tn" tvg-name="Tunisna TV [Offline]" tvg-logo="https://tunisie360.net/img/tv/min/tunisna-tv.png" group-title="GENERAL TV",Tunisna TV [Offline]
 http://streaming.tunisna.tv:1935/live/tunisna/playlist.m3u8
+#EXTINF:-1 tvg-id="Watania2.tn" tvg-name="Watania 2 (400p)" tvg-logo="https://tunisietv.com/wp-content/uploads/2015/05/Logo_Wataniya_2.png" group-title="GENERAL TV",Watania 2 (400p)
+https://iptv.dc-team.com/query?url=https://www.youtube.com/watch?v=yoHS0TiX5s4
+#EXTINF:-1 tvg-id="Watania2.tn" tvg-name="Watania 2 (400p) [Not 24/7]" tvg-logo="https://tunisietv.com/wp-content/uploads/2015/05/Logo_Wataniya_2.png" group-title="GENERAL TV",Watania 2 (400p) [Not 24/7]
+http://217.182.137.206/tunisie2.m3u8
+#EXTINF:-1 tvg-id="Hannibal.tn" tvg-name="Hannibal (400p) [Offline]" tvg-logo="http://www.hannibaltv.com.tn/static/fr/image/png/hannibaltv.png" group-title="Drama TV",Hannibal (400p) [Offline]
+http://217.182.137.206/hannibal.m3u8
+#EXTINF:-1 tvg-id="Nessma.tn" tvg-name="Nessma (720p) [Offline]" tvg-logo="https://www.nessma.tv/images/logonessmamenu.png" group-title="Drama TV",Nessma (720p) [Offline]
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7lmd4f
+#EXTINF:-1 tvg-id="Watania1.tn" tvg-name="Watania 1 (720p)" tvg-logo="https://tunisietv.com/wp-content/uploads/2015/05/El_Wataniya_1_Logo.png" group-title="Drama TV",Watania 1 (720p)
+https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCdvWVsmQBROkgcGzVep73oA/live
+#EXTINF:-1 tvg-id="IFMTV.tn" tvg-name="IFM TV (720p)" tvg-logo="https://www.ifm.tn/images/logo.png" group-title="Music TV",IFM TV (720p)
+https://iptv.dc-team.com/query?url=https://www.youtube.com/watch?v=rddXYjvUr7Q
+#EXTINF:-1 tvg-id="JawharaTV.tn" tvg-name="JAWHARA TV (720p)" tvg-logo="https://i.postimg.cc/xT9fsvYQ/jawhara-fm-tv.jpg" group-title="Music TV",JAWHARA TV (720p)
+https://streaming.toutech.net/live/jtv/index.m3u8
+#EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-name="Mosaïque FM (480p)" tvg-logo="https://www.mosaiquefm.net/images/front2020/logoar.png" group-title="Music TV",Mosaïque FM (480p)
+https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | iFilm Arabic" tvg-logo="" group-title="4k",AR | iFilm Arabic
 https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/chunklist_w1212294603_b944100_slen.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ARTE" tvg-logo="" group-title="4k",ARTE
