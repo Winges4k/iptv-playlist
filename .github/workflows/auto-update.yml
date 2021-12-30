@@ -11,9 +11,9 @@ jobs:
         uses: actions/checkout@v2
       - name: Commit Changes
         run: |
-          curl https://raw.githubusercontent.com/Winges4k/YTFREELIVE-m3u/main/playlist.m3u	 > list.m3u
-          curl https://apps.winges4kiptv.com/kanallar-m3u.php	 > list.m3u
-          curl https://raw.githubusercontent.com/thecomputerhealer/dailymotion_to_m3u/main/dailymotion-US.m3u | grep -iv -E 'www.ast.tv|adultiptv|redtraffic|jasminchannel|group-title="XXX"' >> list.m3u
+          curl https://github.com/TheSamsungFreak/PL_TV_M3U/blob/main/TV_PlusX_TV.m3u	 > list.m3u
+          curl https://github.com/TheSamsungFreak/PL_TV_M3U/blob/main/TV_Local_Channels.m3u	 > list.m3u
+          curl https://raw.githubusercontent.com/TheSamsungFreak/PL_TV_M3U/main/KSW_TV.m3u | grep -iv -E 'www.ast.tv|adultiptv|redtraffic|jasminchannel|group-title="XXX"' >> list.m3u
           
           git config user.name github-actions
           git config user.email github-actions@github.com
