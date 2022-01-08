@@ -144,7 +144,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="07C2:687C:70B83B:D7E9EB:61D97137" data-pjax-transient="true"/><meta name="html-safe-nonce" content="24312955b791c2c42fe2ecf2d67e23108b62fd79b6c694b753a25c4fc886eed3" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIwN0MyOjY4N0M6NzBCODNCOkQ3RTlFQjo2MUQ5NzEzNyIsInZpc2l0b3JfaWQiOiIzMjkyOTUyNDQ1MzkyMDg5Mzk5IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="f50d17ed28fae65fc45986e570f894691fb62811b3b0aa30feec641b90f85aed" data-pjax-transient="true"/>
+  <meta name="request-id" content="0442:35C5:CB155C:184AED4:61D981A9" data-pjax-transient="true"/><meta name="html-safe-nonce" content="f9f87de1f57541bf156d69fdbe60c303c242496756f835e8be5914271c1593fa" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIwNDQyOjM1QzU6Q0IxNTVDOjE4NEFFRDQ6NjFEOTgxQTkiLCJ2aXNpdG9yX2lkIjoiNTM0ODQyODkwMjE0MDE1NDAxIiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="96d29b029a6fbf3b58bb45741e34f5bb0632a04ca6261d3ce1d56bda462cb982" data-pjax-transient="true"/>
 
 
 
@@ -486,7 +486,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="IL9MPXFQ9qIT/XtrXgyPlzSOA8sJn0/vO8ca+aP37GB3q8HCwbfG+PFbIV2XINXlh37JhZx1iV8PnvhlDT+vfw==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="QjX1VPypK4CiHLGis3TtfxH92lRY3myE/WQmNc/MvdKBr8e7htByKSIpkqtniw2gWuGvKkLu4L5RaZOZj8gwcQ==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -676,7 +676,7 @@
   <div style="width: 300px" data-view-component="true" class="Popover-message Box Popover-message--top-right color-fg-default p-4 mt-2 mx-auto text-left color-shadow-large">
     <h4 data-view-component="true" class="color-fg-default mb-2">                Sign in to GitHub
 </h4>
-                    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/session" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="759aR5mM0p+VD2BJ+5poHRJ2Rw52y8QdVDl9aAUIbTyy3iyUfjMyo23O5zxT9LoRHk5mtkZ5WoImsWR+k6vqyA==" />  <label for="login_field">
+                    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/session" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="rQHaGeIoZ4m8NWkOd2cnKbp97sZxnz30iwSLK05QfXBWNXYIHdQVlGcC3xJY+d/UnJKXOGCHS1vHZBcxJXJL/w==" />  <label for="login_field">
     Username or email address
   </label>
   <input type="text" name="login" id="login_field" class="form-control input-block js-login-field" autocapitalize="off" autocorrect="off" autocomplete="username" autofocus="autofocus" />
@@ -694,9 +694,9 @@
 <input type="hidden" name="allow_signup" id="allow_signup" autocomplete="off" class="form-control" />
 <input type="hidden" name="client_id" id="client_id" autocomplete="off" class="form-control" />
 <input type="hidden" name="integration" id="integration" autocomplete="off" class="form-control" />
-<input class="form-control" type="text" name="required_field_af96" hidden="hidden" />
-<input class="form-control" type="hidden" name="timestamp" value="1641640247966" />
-<input class="form-control" type="hidden" name="timestamp_secret" value="86a900c85a6461491d0b23de6edd38fa1f0a87ef58c766a1a136ac3bf2b53641" />
+<input class="form-control" type="text" name="required_field_d935" hidden="hidden" />
+<input class="form-control" type="hidden" name="timestamp" value="1641644457199" />
+<input class="form-control" type="hidden" name="timestamp_secret" value="b7a269eb16e0abfc71ad8a47ed333409b3ecb0d9ea54bbe1decda5fb91488fac" />
 
 
     <input type="submit" name="commit" value="Sign in" class="btn btn-primary btn-block js-sign-in-button" data-disable-with="Signing in…" data-signin-label="Sign in" data-sso-label="Sign in with your identity provider" />
