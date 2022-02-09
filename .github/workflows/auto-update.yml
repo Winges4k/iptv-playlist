@@ -12,8 +12,8 @@ jobs:
       - name: Commit Changes
         run: |
           curl https://raw.githubusercontent.com/LITUATUI/M3UPT/main/m3upt.m3u	 > list.m3u
-          curl #	 > list.m3u
-          curl # | grep -iv -E 'www.ast.tv|adultiptv|redtraffic|jasminchannel|group-title="XXX"' >> list.m3u
+          curl https://raw.githubusercontent.com/LITUATUI/M3UPT/main/m3up.m3u	 > list.m3u
+          curl https://raw.githubusercontent.com/LITUATUI/M3UPT/main/m3ut.m3u | grep -iv -E 'www.ast.tv|adultiptv|redtraffic|jasminchannel|group-title="XXX"' >> list.m3u
           
           git config user.name github-actions
           git config user.email github-actions@github.com
